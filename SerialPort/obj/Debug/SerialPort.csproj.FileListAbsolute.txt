@@ -1,0 +1,32 @@
+C:\Users\youdong\source\repos\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Users\youdong\source\repos\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\youdong\source\repos\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\youdong\source\repos\SerialPort\SerialPort\obj\Debug\SerialPort.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\SerialPort\SerialPort\obj\Debug\SerialPort.Form1.resources
+C:\Users\youdong\source\repos\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\youdong\source\repos\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\youdong\source\repos\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.Form1.resources
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.Form2.resources
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\youdong\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.pdb
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\bin\Debug\SerialPort.exe.config
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\bin\Debug\SerialPort.exe
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\bin\Debug\SerialPort.pdb
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.csprojAssemblyReference.cache
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.Form1.resources
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.Form2.resources
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.cache
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.exe
+D:\source\repos\SerialPort(캡스톤 관련)\SerialPort\obj\Debug\SerialPort.pdb
